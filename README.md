@@ -1,6 +1,7 @@
   <h1>Olá tudo bem? Meu nome é Pedro Henrique Fontes</h1>
 <h3>Estudo TI desde 2022 e fiz curso no Colégio ULBRA São Lucas, em Sapucaia do Sul entre 2022 e 2024.</h3>
 <h3>Falo inglês bem e pretendo aprender russo no futuro.</h3>
+<h3>Email: pedrohfontes07@gmail.com</h3>
   <h1>Atualmente sei programar em/sei usar:</h1>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40"/>
@@ -25,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40"/>
   
   <h1>Redes Sociais</h1>
-<h3>Aqui tem o meu Instagram e meu LinkedIN</h3>
+<h3>Aqui poderá me seguir e também entrar em contato comigo alem do email.</h3>
 <div>
   <a href="https://www.instagram.com/pedrohenriquefontes.jpeg/" target="https://www.instagram.com/pedrohenriquefontes.jpeg/"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-fontes-750b21275/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
