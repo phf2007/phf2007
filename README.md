@@ -30,7 +30,7 @@
 <div>
   <a href="https://www.instagram.com/pedrohenriquefontes.jpeg/" target="https://www.instagram.com/pedrohenriquefontes.jpeg/"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-fontes-750b21275/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="discordapp.com/users/434523866702807050" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.discordapp.com/users/434523866702807050" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/valueyourfriends/" targer="_blank"><img loading="lazy" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://x.com/peeeeedr18" targer="_blank"><img loading="lazy" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
 </div>
