@@ -26,6 +26,7 @@
 
   <h1>Programo no:</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40" width="40"/>
   
   <h1>Redes Sociais</h1>
 <h3>Aqui poderá me seguir e também entrar em contato comigo alem do email.</h3>
