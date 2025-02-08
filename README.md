@@ -24,11 +24,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="40"/>
 </div>
 
-  <h1>Programo no:</h1>
+  <h1>Programas que uso:</h1>
   <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40" width="40"/>
-  
   </div>
 
   
