@@ -2,7 +2,6 @@
 <h3>Estudo TI desde 2022 e fiz curso no Colégio ULBRA São Lucas, em Sapucaia do Sul entre 2022 e 2024.</h3>
 <h3>Falo inglês e pretendo aprender russo, mandarim e japonês no futuro.</h3>
 <h3>Email: pedrohfontes07@gmail.com</h3>
-<img src="https://camo.githubusercontent.com/9a57e0bb73fd651646f34e4afd9083addbd4a2aa1959c92ee6afacde419fe252/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b6973743139266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=phf20079&amp;layout=compact" style="max-width: 100%;">
   <h1>Atualmente sei programar em:</h1>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40"/>
